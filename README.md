@@ -84,6 +84,8 @@ cd RAG-based-AI-Chatbot-by-Appening-Infotech)
    ```
    *(The server will start at `http://127.0.0.1:8000`)*
 
+<img width="1502" height="550" alt="backend run output" src="https://github.com/user-attachments/assets/5f2ceb53-3873-42b7-8091-bbd2d3bbc989" />
+
 #### Step C: Set Up the Frontend
 1. Open a new terminal and navigate to the `frontend/` directory:
    ```bash
@@ -98,6 +100,8 @@ cd RAG-based-AI-Chatbot-by-Appening-Infotech)
    npm run dev
    ```
 4. Open the link displayed in the console (usually `http://localhost:5173`) in your browser.
+
+<img width="1882" height="870" alt="frontend run output" src="https://github.com/user-attachments/assets/e3210d12-a216-48bb-9448-601fac1b583f" />
 
 ---
 
