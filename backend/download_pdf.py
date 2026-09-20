@@ -4,7 +4,7 @@ import requests
 def download_ebook():
     # This is the link to the ebook from the assignment
     ebook_url = "https://konverge.ai/pdf/Ebook-Agentic-AI.pdf"
-    output_filename = "ebook.pdf"
+    output_filename = "Agentic AI.pdf"
     
     print(f"Starting download from: {ebook_url} ...")
     
