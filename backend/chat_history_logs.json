@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "2026-07-28 23:22:52",
+        "question": "What is the role of memory in AI agents?",
+        "answer": "An agent needs long-term memory (LTM) to store past interactions and successful methods for completing tasks. LTM helps reduce the amount of computing an agent must perform for new tasks by referencing past plans and actions. Memory also allows an agent to store human demonstrations, which can speed up its progress without needing a rigorous planning and reasoning loop. Additionally, an agent has short-term memory (STM), which represents its current context, including prompts and information within its context length. The use of memory and learning from interactions enables continuous improvement, leading to more effective and adaptive decision-making.",
+        "confidence_score": 0.752
+    },
+    {
+        "timestamp": "2026-09-20 17:35:55",
+        "question": "What is Agentic AI?",
+        "answer": "An error occurred while generating the answer. Please try again.",
+        "confidence_score": 0.796
+    },
+    {
+        "timestamp": "2026-09-20 18:29:48",
+        "question": "What is Agentic AI?",
+        "answer": "An error occurred while generating the answer. Please try again.",
+        "confidence_score": 0.796
+    },
+    {
+        "timestamp": "2026-09-20 18:29:55",
+        "question": "What are the core capabilities of an agent?",
+        "answer": "An error occurred while generating the answer. Please try again.",
+        "confidence_score": 0.751
+    },
+    {
+        "timestamp": "2026-09-20 18:30:03",
+        "question": "Who won the 2022 FIFA World Cup?",
+        "answer": "I couldn't find this information in the provided Agentic AI eBook.",
+        "confidence_score": 0.531
+    }
+]

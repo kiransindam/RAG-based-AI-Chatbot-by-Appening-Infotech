@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langchain-google-genai
+pinecone
+langchain-community
+langgraph
+pypdf
+python-dotenv
+requests
