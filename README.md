@@ -64,7 +64,7 @@ cd RAG-based-AI-Chatbot-by-Appening-Infotech)
 2. Create and activate a Python virtual environment:
    ```bash
    uv venv --python 3.12
-   .\.venv\Scripts\Activate.ps1
+   .\.venv\Scripts\Activate
    ```
 3. Install dependencies:
    ```bash
